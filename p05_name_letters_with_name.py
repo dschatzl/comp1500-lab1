@@ -1,6 +1,8 @@
 # Use the input() function to ask the user for their name with the prompt:
 # 'Enter your name: '
 
+# this is useful information that i'm adding from lecture
+
 # Use the len() function to determine the length of the users name.
 # Print out a message to the user with the number of letters in their name.
 # The message should be their name, followed by 'has', followed by the count, and end with 'letters'
